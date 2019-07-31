@@ -1,0 +1,1 @@
+<!--  --><?php /**PATH C:\xampp\htdocs\social\resources\views//postes/post_view.blade.php ENDPATH**/ ?>
